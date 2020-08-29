@@ -7,7 +7,7 @@ Versions hosted here:
 * [IORegistryExplorer v3.0.2](ioreg-302.zip)
   * Build 2136
   * Xcode 12
-* [IORegistryExplorer v2.1.0](ioreg-210.zip)(
+* [IORegistryExplorer v2.1.0](ioreg-210.zip)
   * Build 575
   * Xcode 10
 
